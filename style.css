@@ -1,0 +1,89 @@
+header {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    color:cadetblue;
+    font-family: Verdana;
+}
+
+body {
+    background-color: rgb(236, 231, 225);
+    margin: 0px;
+    padding: 0px;
+}
+
+
+nav {
+    text-align: center;
+    background-color: rgba(119, 196, 198, 0.415);
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    font-family: Impact;
+    font-size: 25px;
+    padding-left: 30px;
+    padding-right: 30px;
+    color:cadetblue;
+}
+
+footer {
+    background-color: rgba(119, 196, 198, 0.415);
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+footer p {
+    font-family: Impact;
+    font-size: 10px;
+    color:cadetblue;
+}
+
+main {
+    text-align: center;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: Arial;
+}
+
+main p {
+    color:cadetblue;
+    font-size: 20px;
+}
+
+ul {
+    list-style: none;
+}
+
+#blog {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: Verdana;
+    color:cadetblue;
+    padding: 10px;
+}
+
+.blog-heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
